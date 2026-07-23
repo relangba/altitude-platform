@@ -1,0 +1,50 @@
+body {
+    font - family: Arial;
+    margin: 0
+}
+nav {
+    background: #1b5e20;
+    padding: 15px
+}
+nav a {
+    color: #fff;
+    margin - right: 15px;
+    text - decoration: none
+}
+.active {
+    border - bottom: 2px solid #ffb300
+}
+.hero {
+    background: #2e7d32;
+    color: #fff;
+    padding: 60px;
+    text - align: center
+}
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:20px;
+}
+
+.gallery-item{
+    height:300px;
+    border:2px solid red;   /* temporary */
+    overflow:hidden;
+}
+
+.gallery-item img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+main {
+    max - width: 900px;
+    margin: auto;
+    padding: 20px
+}
+footer {
+    background: #263238;
+    color: #fff;
+    text - align: center;
+    padding: 20px
+}
