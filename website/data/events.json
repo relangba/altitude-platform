@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "title": "Bird Watching at Begur Lake",
+      "date": "26 July 2026",
+      "time": "7:00 AM",
+      "location": "Begur Lake",
+      "description": "Observe wetland birds and learn field identification.",
+      "image": "images/events/begur.jpg",
+      "registration": "register.html"
+    },
+    {
+      "title": "Moon Observation",
+      "date": "2 August 2026",
+      "time": "7:30 PM",
+      "location": "Terrace Observatory",
+      "description": "Observe the Moon using telescopes.",
+      "image": "images/events/moon.jpg",
+      "registration": "register.html"
+    }
+  ]
+}

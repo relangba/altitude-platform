@@ -1,0 +1,60 @@
+{
+  "site": {
+    "name": "Altitude Platform",
+    "tagline": "Explore • Learn • Inspire",
+    "logo": "images/logo.png",
+    "favicon": "images/favicon.ico",
+    "copyright": "© 2026 Altitude Platform"
+  },
+
+  "navigation": {
+    "home": "Home",
+    "events": "Events",
+    "gallery": "Gallery",
+    "courses": "Courses",
+    "about": "About",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "title": "Explore Nature and Science",
+    "subtitle": "Astronomy • Bird Watching • RC Aeromodelling • Science Outreach",
+    "buttonText": "Upcoming Events",
+    "buttonLink": "events.html",
+    "backgroundImage": "images/hero.jpg"
+  },
+
+  "about": {
+    "title": "About Altitude Platform",
+    "description": "Altitude Platform promotes science education through astronomy, bird watching, nature conservation and hands-on learning."
+  },
+
+  "contact": {
+    "email": "info@altitudeplatform.in",
+    "phone": "+91 9876543210",
+    "address": "Bengaluru, Karnataka",
+    "map": "https://maps.google.com/..."
+  },
+
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "whatsapp": ""
+  },
+
+  "donation": {
+    "enabled": true,
+    "upiId": "altitude@okhdfcbank",
+    "buttonText": "Support Our Activities"
+  },
+
+  "announcement": {
+    "enabled": true,
+    "text": "Bird Watching Program this Sunday at Begur Lake."
+  },
+
+  "footer": {
+    "text": "Made with ❤️ for Science and Nature."
+  }
+}

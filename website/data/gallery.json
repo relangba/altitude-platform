@@ -1,0 +1,14 @@
+{
+  "gallery": [
+    {
+      "title": "Painted Stork",
+      "image": "images/gallery/painted_stork.jpg",
+      "description": "Begur Lake"
+    },
+    {
+      "title": "Red-wattled Lapwing",
+      "image": "images/gallery/lapwing.jpg",
+      "description": "Hulimavu Lake"
+    }
+  ]
+}

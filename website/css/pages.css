@@ -37,6 +37,54 @@ nav a {
     height:100%;
     object-fit:cover;
 }
+form{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+label{
+    font-weight:600;
+}
+
+input,
+select,
+textarea{
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:6px;
+    font-size:16px;
+    width:100%;
+    box-sizing:border-box;
+}
+
+textarea{
+    resize:vertical;
+}
+
+.checkbox-group{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:10px;
+}
+
+.checkbox-group label{
+    font-weight:normal;
+}
+
+button{
+    padding:14px;
+    border:none;
+    border-radius:6px;
+    background:#00695c;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#004d40;
+}
 main {
     max - width: 900px;
     margin: auto;
